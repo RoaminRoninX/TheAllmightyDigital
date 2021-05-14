@@ -1,4 +1,4 @@
-#TheAllmighty.Digital
+# TheAlmighty.Digital
 
 The Almighty.digital code i wrote
 
